@@ -1,0 +1,31 @@
+{
+  "name": "node-express-restapi",
+  "version": "1.0.0",
+  "description": "Build a RESTful API with Node and Express",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesavasreeram/node-express-restAPI.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "REST"
+  ],
+  "author": "Kesava Sreeram T",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kesavasreeram/node-express-restAPI/issues"
+  },
+  "homepage": "https://github.com/kesavasreeram/node-express-restAPI#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
